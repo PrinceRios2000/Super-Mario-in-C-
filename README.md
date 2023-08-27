@@ -1,2 +1,2 @@
-# Super-Mario-in-C-
+# Super-Mario-in-CPP
 Super Mario Game in C++
