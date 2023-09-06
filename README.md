@@ -22,7 +22,7 @@ Prerequisites:
    make:
      g++ main.cpp -o play -I include -L lib -l SDL2-2.0.0
 
-8. lastly to run your main.cpp, run
+8. Lastly, to run the game, type in the following command in terminal:
 
     make game
 
