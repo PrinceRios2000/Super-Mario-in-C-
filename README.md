@@ -17,7 +17,7 @@ Prerequisites:
 
 5. Transer contents of lib folder in sdl2/2.0.5 over to the lib file in your root project folder
 
-6. Create a makefile and place the follow block of code inside file
+6. Create a makefile and place the following block of code inside file
 
    make:
      g++ main.cpp -o play -I include -L lib -l SDL2-2.0.0
