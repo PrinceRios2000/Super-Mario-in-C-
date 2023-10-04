@@ -1,6 +1,10 @@
 # Super-Mario-in-CPP
 Super Mario Game in C++
 
+<img width="789" alt="Screenshot 2023-10-04 at 4 10 02 PM" src="https://github.com/PrinceRios2000/Super-Mario-in-CPP/assets/56173707/b3f9046d-8787-40ff-8424-becdbdc97bbc">
+
+
+
 Instructions for Setting up SDL2 on Mac
 
 Prerequisites:
